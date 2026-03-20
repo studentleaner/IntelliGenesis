@@ -1,3 +1,4 @@
+🧠 IntelliGenesis
 # The Architecture of Intelligence: Biological & Artificial Evolution
 
 Welcome to the **Architecture of Intelligence** repository.
